@@ -1,2 +1,5 @@
 # ender3-s1-pro-marlin2.1.x-firmware
+DOES NOT WORK WITH STOCK TOUCHSCREEN DISPLAY
+USE STOCK CREALITY CR10 DISPLAY (12864)
+
 Marlin 2.1.x firmware for Ender3 S1 Pro with 12864 LCD
